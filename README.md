@@ -1,13 +1,13 @@
 # 🌳Decision Tree Model from Scratch
 This repository contains a Python implementation of a decision tree model built from scratch. Decision trees are a fundamental machine learning algorithm used for both classification and regression tasks. With this code, you can understand how decision trees work internally and gain insights into the core concepts behind their functioning.
 
-## 💡Features
+## Features
 - Implementation of a decision tree classifier.
 - Supports both Gini impurity and entropy as splitting criteria.
 - Allows you to set the maximum depth of the tree and the minimum number of samples required to split a node.
 - Utilizes a binary tree structure for decision making.
 
-## 🚀How to Use
+## How to Use
 1. Clone this repository to your local machine:
 ```python
 git clone https://github.com/yourusername/decision-tree-from-scratch.git
